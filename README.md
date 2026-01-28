@@ -116,12 +116,16 @@ For the graphic part I used matplotlib
 
 On linux :
 ```
-sudo pip install numpy matplotlib  
+pip install -r requirements.txt
+```
+or 
+```
+pip download -r requirements.txt
 ```
 
 On windows : 
 ```
-pip install numpy matplotlib 
+pip install -r requirements.txt
 ```
 
 After we can start the code with this command : 
