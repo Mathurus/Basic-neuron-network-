@@ -127,6 +127,10 @@ On windows :
 ```
 pip install -r requirements.txt
 ```
+Or :
+```
+pip download -r requirements.txt
+```
 
 After we can start the code with this command : 
 ```
